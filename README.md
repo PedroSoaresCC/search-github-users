@@ -17,7 +17,7 @@ Esse projeto é um teste técnico para o processo seletivo da Compasso Uol
 [react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado usando o Create react app [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Tarefa 
@@ -25,8 +25,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Gostaríamos nos entregasse uma aplicação utilizando a api do GITHUB https://developer.github.com/v3/ consumindo os seguintes endpoints:
 
 Endpoint user: https://api.github.com/users/NOME_USUARIO
+
 Endpoint repos: https://api.github.com/users/NOME_USUARIO/repos
+
 Endpoint starred: https://api.github.com/users/NOME_USUARIO/starred
+
 A aplicação deverá constituir três componentes principais:
 
 O campo de busca.
