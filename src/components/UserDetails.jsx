@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 import Button from './Button';
-import CardContainer from './CardContainer';
 
 const ContainerDetails = styled.div`
   display: flex;

@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import Button from './Button';
-import { Container } from './CardContainer';
-import { Wrapper } from './Header';
 
 const Form = styled.form`
   width: 100%;

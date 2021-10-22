@@ -39,11 +39,11 @@ function Details(props) {
 
   useEffect(() => {
     fetchUserData();
-  }, [])
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     fetchUserData();
-  }, [userName])
+  }, [userName]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <Wrapper>
